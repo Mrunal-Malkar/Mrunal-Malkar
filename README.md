@@ -7,7 +7,7 @@
 <!--- 💞️ I’m looking to collaborate on --->
 - 📫 reach me through Gmail(mrunalpmalkar@gamil.com).
 - 😄 Pronouns: HE/HIM.
-- ⚡ Fun fact: I am 16 and counting...
+- ⚡ Fun fact: I am 17 and counting...
 
 <!---
 Mrunal-Malkar/Mrunal-Malkar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
