@@ -1,6 +1,6 @@
 - 👋 Hi there, I’m @Mrunal-Malkar
-  
-- ![banner me final](https://github.com/user-attachments/assets/c5b384d1-b572-43cd-97cb-b1f0fde1e4ca)
+
+![Uploading Leonardo_Phoenix_10_create_a_landscape_image_which_occupies_ju_3.jpg…]()
 
 - 👀 I’m interested in coding and love building new stuff.
 - 🌱 I’m currently learning backend development.
