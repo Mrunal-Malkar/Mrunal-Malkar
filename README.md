@@ -7,7 +7,6 @@
 - 📫 reach me through Gmail(mrunalpmalkar@gamil.com).
 - 💻 My Portfolio [https://mrunal-portfolio-sandy.vercel.app/]
 - 😄 Pronouns: HE/HIM.
-- ⚡ Fun fact: I am 17 and counting...
 
 - <!--- 💞️ I’m looking to collaborate on --->
 <!---
