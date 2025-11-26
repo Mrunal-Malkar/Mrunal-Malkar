@@ -1,6 +1,6 @@
 - 👋 Hi there, I’m @Mrunal-Malkar
 
-![Leonardo_Phoenix_10_create_a_landscape_image_which_occupies_ju_3](https://github.com/user-attachments/assets/c3c67b8d-5301-41dc-ab89-905d962d7dd2)
+![Leona![360_F_507672380_GfLQGaIWUElNDwZ07xn66pR2jir0ZxQf](https://github.com/user-attachments/assets/33ad30cb-43c6-4b08-9b43-719e01185238)
 
 - 👀 I’m interested in coding and love building new stuff.
 - 🌱 I’m a Full-stack developer.
