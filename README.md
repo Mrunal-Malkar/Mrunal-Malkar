@@ -1,6 +1,6 @@
 - 👋 Hi there, I’m @Mrunal-Malkar
 
-![Leona![360_F_507672380_GfLQGaIWUElNDwZ07xn66pR2jir0ZxQf](https://github.com/user-attachments/assets/33ad30cb-43c6-4b08-9b43-719e01185238)
+![grok-image-2f30c01d-8eb0-47c0-8f5d-bfa80a7b01c1](https://github.com/user-attachments/assets/88ce8511-d9f5-4a39-8741-858ff5b2986b)
 
 - 👀 I’m interested in coding and love building new stuff.
 - 🌱 I’m a Full-stack developer.
