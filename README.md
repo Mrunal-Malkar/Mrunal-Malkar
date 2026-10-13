@@ -58,15 +58,6 @@ stack=NextJs,Ts,mongoDb,cloudinary.
 -Stack=Mern stack.
 ---
 
-## 🎯 Current Goals
-
-- 🔥 Get a backend/full-stack internship  
-- ⚙️ Build production-level backend systems  
-- 🧱 Learn system design fundamentals  
-- 🌐 Start exploring Web3 development  
-
----
-
 ## 🤝 Let's Collaborate
 
 💞️ Open to:
@@ -83,6 +74,3 @@ stack=NextJs,Ts,mongoDb,cloudinary.
 - Gmail-(mrunalpmalkar@gmail.com)  
 
 ---
-
-## ⚡ Fun Fact
-I also write Poetry,Love reading books,I also 12/7 code.(ps:favourite book->can't hurt me (by david goggins))
